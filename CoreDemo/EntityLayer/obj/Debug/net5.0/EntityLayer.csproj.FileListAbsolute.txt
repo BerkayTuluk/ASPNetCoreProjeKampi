@@ -1,0 +1,12 @@
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

@@ -1,0 +1,12 @@
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll

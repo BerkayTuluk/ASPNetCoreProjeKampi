@@ -1,0 +1,17 @@
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\YAZILIMDERSLERİM\ASP.NET Core\CoreDemo\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
